@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <!-- Main TextViews -->
+    <string name="sinText">Sin</string>
+    <string name="bloodText">Blood</string>
+
+    <!-- Button TextViews -->
+    <string name="backText">Back</string>
+    <string name="continueText">Continue</string>
+</resources>

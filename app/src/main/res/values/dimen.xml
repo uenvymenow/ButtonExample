@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- activity_main.xml TextView height -->
+    <dimen name="mainScreenTextViewHeight">88dp</dimen>
+
+    <!-- activity_sin.xml TextView Header Height -->
+    <dimen name="sinHeader">88dp</dimen>
+</resources>
